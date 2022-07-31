@@ -1,0 +1,8 @@
+/*Fill in the Blanks
+Author : Deepshikha Date:24/07/2022
+*/
+
+(a) In y = 10*x/2+z, operation will be performed first.
+
+Ans. *
+
